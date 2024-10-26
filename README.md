@@ -12,17 +12,17 @@ Documentations of my personal project in LITA bootcamp
   - [Data Cleaning and Formatting](#data-cleaning-and-formatting)
 
 
-### Project Topic : Customers Segmentation Analysis
+### Project Topic : Sales Performance Analysis
 
 ### Project Overview 
 ---
-This project involves analyzing customer data for a subscription-based service to understand customer behavior, identify customer segments, and track trends in subscriptions, cancellations, and renewals. The goal is to provide actionable insights on customer retention, the popularity of subscription types, and customer demographics through an interactive Power BI dashboard.
+This project focuses on analyzing sales data to uncover insights into top-selling products, regional performance, and monthly sales trends. The final goal is to create an interactive Power BI dashboard that highlights these insights, aiding the business in understanding sales drivers and optimizing performance.
 
 ### Project Objective 
 ---
- 1. Identify Customer Segments: Analyze customer data to group them by subscription behavior, types, and region.
- 2. Track Subscription Patterns: Highlight popular subscription types and track customer retention.
- 3. Identify Cancellations and Renewals Trends: Analyze and visualize trends in cancellations, renewal patterns, and overall customer behavior.
+ 1. Identify Top-Selling Products across categories.
+ 2. Analyze Regional Sales Performance to find high and low-performing regions.
+ 3. Visualize Monthly Sales Trends for actionable insights.
 
 ### Data Sources 
 ---
@@ -33,14 +33,14 @@ Click on the link below to download the data
 
 ### Data Overview 
 ---
-The excel dataset, Customers data contains the following column :
+The excel dataset, Sales data contains the following column :
+ - Order ID: Unique identifier for each order.
  - Customer ID: Unique identifier for each customer.
- - Region: Customer’s geographical region.
- - Subscription Type:Contains type or plan of subscription purchased by the customer.
- - Subscription Start Date:Shows the date when the subscription started.
- - Subscription End Date: Shows the date when the subscription ended or is set to end.
- - Status: Subscription status (e.g., Active, Canceled).
- - Revenue: Revenue generated from each customer’s subscription.
+ - Product: Name or category of the product.
+ - Region: Geographical area where the sale occurred.
+ - Order Date: Date of the sale.
+ - Quantity: Quantity sold for each order.
+ - Unit Price: Price per unit of the product.
 
 ### Tools used
 ---
