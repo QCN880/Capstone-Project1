@@ -8,8 +8,10 @@ Documentations of my personal project in LITA bootcamp
   - [Data Sources](#data-sources)
   - [Data Overview](#data-overview)
   - [Tools used](#tools-used)
-  - [Formulas Used](#formulas-used)
-  - [Data Cleaning and Formatting](#data-cleaning-and-formatting)
+  - [Excel Analysis](#excel-analysis)
+  - [SQL Analysis](#sql-analysis)
+  - [Power Bi Dashboard](#power-bi-dashboaard)
+    
 
 
 ### Project Topic : Sales Performance Analysis
@@ -56,11 +58,20 @@ The excel dataset, Sales data contains the following column :
 - PowerBi for :
   1. Data Analysis
   2. Data Visualization: Charts, Graphs, Slicers, Timelines
+  3. Interactive Dashboard
   
  - Documentation: README.md, Project Report (PDF)
  - GitHub for portfolio building
 
-### Formulas Used 
+### Excel Analysis
+---
+  - #### Data Cleaning in Excel :
+     1. Remove Duplicate Entries:Go to the Data tab, select Remove Duplicates, and apply it on the entire Customers Data
+     2. Subscription Duration : Add a new column called suscription duration.It was gotten by subtracting subscription end date from the subscription start date.
+     3. Handled missing data: Checked the data to see if any cell is blank
+     4. Saved the clean data and import to SQL for further analysis
+      
+ - #### Formulas Used 
 The formulas used for the analysis and preparation of the projects are :
  - Excel Formulas :
    ``` Excel formula
@@ -72,15 +83,16 @@ The formulas used for the analysis and preparation of the projects are :
    
    Customer Cancellation Rate =(COUNTIF('CustomerData (2)'!G2:G33788,"TRUE")/'CustomerData (2)'!E2:E33788)
    ```
- - SQL Formulas used :
-    ``` SQL Formulas```
+ - #### Questions
+     1. Perform an initial exploration of the sales data. Use pivot tables to summarize total sales by product, region, and month.
+     2. Use Excel formulas to calculate metrics such as average sales per product and total revenue by region.
+     3. Create any other interesting report
 
-   ### Data Cleaning and Formatting
-   ---
-  - Data Cleaning in Excel :
-     1. Remove Duplicate Entries:Go to the Data tab, select Remove Duplicates, and apply it on the entire Customers Data
-     2. Subscription Duration : Add a new column called suscription duration.It was gotten by subtracting subscription end date from the subscription start date.
-     3. Handled missing data: Checked the data to see if any cell is blank
-     4. Saved the clean data and import to SQL for further analysis
-      
-  - Data Cleaning in SQL :
+  - #### Exploratory Analysis using pivot tables
+      - Pivot Table 1 : Total sales
+        1. Question : What is the total sales generated
+        2. Setup :
+             Value field : Total Sales
+        3. 
+         
+    
