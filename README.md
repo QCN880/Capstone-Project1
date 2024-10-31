@@ -14,6 +14,8 @@ Documentations of my personal project in LITA bootcamp
 
 
 ### Project Topic : Sales Performance Analysis
+---
+
 
 ### Project Overview 
 ---
@@ -214,6 +216,7 @@ highlighting the most and least popular items.
         4. Result: Identifies regions with the highest revenue contributions, aiding regional strategy decisions.
 
 
+### SQL Analysis
 
 
 
