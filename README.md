@@ -92,7 +92,20 @@ The formulas used for the analysis and preparation of the projects are :
       - Pivot Table 1 : Total sales
         1. Question : What is the total sales generated
         2. Setup :
-             Value field : Total Sales
-        3. 
-         
+             1. Value field : Total Sales 
+        3. Pivot table screenshot
+
+        ![Screenshot 2024-10-30 224350](https://github.com/user-attachments/assets/1d20b7ed-c0e9-467b-b0d2-8a2ff9c9c4f4)
+
+        4. Outcome : This pivot table shows the total sales generated during the fiscal year 2022
+    - Pivot Table 2 : Total Sales by Product
+        1. Question : What is the total sales by product
+        2. Set Up :
+             1. Row field : Product
+             2. Value field : Total sales  summarized as sum
+        3. Pivot Table screenshot
+           
+        ![Screenshot 2024-10-30 231329](https://github.com/user-attachments/assets/b7eeb124-4d45-4135-ba94-1f561b7b0f1a)
+
+        
     
