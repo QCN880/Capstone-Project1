@@ -9,7 +9,7 @@ Documentations of my personal project in LITA bootcamp
   - [Tools used](#tools-used)
   - [Excel Analysis](#excel-analysis)
   - [SQL Analysis](#sql-analysis)
-  - [Power Bi Dashboard](#power-bi-dashboaard)
+  - [PowerBi Dashboard](#powerbi-dashboard)
     
 
 
@@ -217,6 +217,15 @@ highlighting the most and least popular items.
 
 
 ### SQL Analysis
+---
+### PowerBi Dashboard
+---
+ - #### Dashboard Overview 
+ 
+ ![Screenshot 2024-10-31 063125](https://github.com/user-attachments/assets/bccb219d-a846-4ec3-8826-7d3bfad33969)
+
+- #### Dashboard Features
+  - Interactive filters
 
 
 
