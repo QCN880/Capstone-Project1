@@ -220,7 +220,9 @@ highlighting the most and least popular items.
 ---
 ### PowerBi Dashboard
 ---
- - #### Dashboard Overview 
+ - #### Dashboard Overview
+
+   The image below shows the entire view of the dashboard
  
  ![Screenshot 2024-10-31 063125](https://github.com/user-attachments/assets/bccb219d-a846-4ec3-8826-7d3bfad33969)
 
