@@ -351,9 +351,9 @@ Recommendation: Maintain high availability and marketing focus on top revenue-ge
  - #### Dashboard Overview
 
    The image below shows the entire view of the dashboard
+   
+ ![Screenshot 2024-10-29 121726](https://github.com/user-attachments/assets/c364d9ae-f454-49ce-9a0f-25b4d78096ad)
  
- ![Screenshot 2024-10-31 063125](https://github.com/user-attachments/assets/bccb219d-a846-4ec3-8826-7d3bfad33969)
-
 - #### Dashboard Features
   - Interactive filters
 
