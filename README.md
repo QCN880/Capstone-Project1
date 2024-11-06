@@ -355,7 +355,73 @@ Recommendation: Maintain high availability and marketing focus on top revenue-ge
 ![Screenshot 2024-11-06 102514](https://github.com/user-attachments/assets/a1615e23-275c-4cb7-88fb-0d3f1e05fb63)
  
 - #### Dashboard Features
-  - Interactive filters
+  
+## Key Metrics
+
+### 1. Total Sales Generated
+- **Value**: $2.10M
+- **Insight**: Reflects total sales revenue.
+- **Recommendation**: Track monthly to gauge growth.
+
+### 2. Total Number of Quantity
+- **Value**: 68.46K
+- **Insight**: Measures volume sold.
+- **Recommendation**: Compare with revenue to assess revenue-to-quantity ratio.
+
+### 3. Total Number of Customers
+- **Value**: 500
+- **Insight**: Size of customer base.
+- **Recommendation**: Expand customer reach, especially in low-performing regions.
+
+### 4. Average Revenue per Customer
+- **Value**: $211.78
+- **Calculation**: `Total Revenue / Total Customers`
+- **Insight**: Shows average revenue contribution per customer.
+- **Recommendation**: Increase by upselling or bundling products.
+
+## Visualizations
+
+### Total Sales by Product
+- **Description**: Bar chart by product type.
+- **Top Product**: Shoes ($0.61M).
+- **Recommendation**: Focus marketing on underperforming products.
+
+### Total Sales by Region
+- **Description**: Sales revenue by region.
+- **Insight**: South region leads with $0.93M.
+- **Recommendation**: Apply South region's strategies to other areas.
+
+### Sum of Quantity by Product and Region
+- **Description**: Stacked bar chart by product and region.
+- **Insight**: Shoes are popular; hats and jackets are less so.
+- **Recommendation**: Adjust inventory based on regional demand.
+
+### Monthly Trend by Revenue
+- **Description**: Line chart of monthly revenue trends.
+- **Peak**: February.
+- **Recommendation**: Analyze February spike; replicate strategy in slow months.
+
+### Average Sales by Product
+- **Description**: Average sales by product type.
+- **Top Performers**: Shirts, Shoes.
+- **Recommendation**: Expand product line for high-performers.
+
+## Filters and Navigation
+
+### Year Filter
+- **Description**: Allows year-based comparisons.
+- **Recommendation**: Use for year-over-year analysis.
+
+### Navigation Icons
+- **Home**: Main dashboard.
+- **Database**: Access to data tables.
+- **Presentation**: Visual summary of key metrics.
+- **URL**: External documentation/resources.
+- **Q&A**: Opens help section with FAQs.
+
+---
+
+This dashboard documentation helps users understand and interact with each feature, making it suitable for sharing insights and recommendations on GitHub.
 
 
 
